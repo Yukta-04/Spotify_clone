@@ -105,6 +105,15 @@ cursor: pointer;
 	left: 9vw;
 	font-family: 'Varela Round', sans-serif;
 }
+#currentTime{
+	margin:0 10px;
+}
+#totalTime{
+	position: absolute;
+	right: 10vw;
+	font-family: 'Varela Round', sans-serif;
+}
+
 .songInfo img{
 	width: 40px;
 	margin: 0 13px;
